@@ -91,4 +91,34 @@ Puedes abrir y **ver con formato** tus archivos `.md` de varias formas:
 
 ---
 
+## 📤 Entrega
+
+El documento Markdown que has creado (`sostenibilidad.md`) debe visualizarse y exportarse a **PDF** utilizando **una de estas dos herramientas online** (elige la que prefieras):
+
+### 1. [StackEdit](https://stackedit.io)
+
+* Abre tu archivo o copia el texto dentro del editor.
+* Haz clic en el **icono de Export** (es un cuadrado con una flecha hacia fuera, arriba a la derecha).
+* Selecciona **Download PDF**.
+* Alternativa: Export → Print → y en la impresora elegir **Guardar como PDF**.
+
+### 2. [Dillinger](https://dillinger.io)
+
+* Abre tu archivo o escribe directamente en el editor.
+* Haz clic en el menú superior **Export**.
+* Selecciona **Export as PDF** para descargarlo.
+
+---
+
+### Pasos finales
+
+1. Revisa la vista previa para comprobar que tu documento se ve correctamente (encabezados, listas, tablas, citas, imagen).
+2. Descarga el PDF generado.
+3. Sube el PDF a la tarea correspondiente en **Moodle**.
+
+---
+
+📌 **Nota didáctica**:
+Con esta práctica trabajamos la **sintaxis básica de Markdown**, reflexionamos sobre los **conceptos introductorios de sostenibilidad (RA1)**, y además fomentamos el uso de **herramientas digitales ligeras y sostenibles** en lugar de editores pesados.
+
 
