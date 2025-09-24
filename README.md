@@ -1,6 +1,6 @@
 # 🌱 Práctica SASP02 – Introducción a Markdown y Sostenibilidad
 
-## 1️⃣ Introducción a Markdown
+## 1. Introducción a Markdown
 
 Markdown es un **lenguaje de marcas ligero** que permite escribir documentos de texto con formato de manera sencilla y legible. Se usa mucho en GitHub, foros técnicos y aplicaciones de notas porque:
 
@@ -48,7 +48,7 @@ print("Bloque de código en Python")
 
 ---
 
-## 2️⃣ Cómo visualizar documentos Markdown  
+## 2. Cómo visualizar documentos Markdown  
 Puedes abrir y **ver con formato** tus archivos `.md` de varias formas:  
 
 ### Plataformas online
@@ -76,7 +76,7 @@ Puedes abrir y **ver con formato** tus archivos `.md` de varias formas:
 
 ---
 
-## 3️⃣ Ejercicio propuesto  
+## 3. Ejercicio propuesto  
 
 ### Tarea del alumno
 1. Crea un fichero llamado `sostenibilidad.md`.  
@@ -91,9 +91,11 @@ Puedes abrir y **ver con formato** tus archivos `.md` de varias formas:
 
 ---
 
-## 📤 Entrega
+## ENTREGA DE LA TAREA:
 
-El documento Markdown que has creado (`sostenibilidad.md`) debe visualizarse y exportarse a **PDF** utilizando **una de estas dos herramientas online** (elige la que prefieras):
+- El enlace a tu repositorio *(recuerda que debe ser público, para que yo pueda visualizarlo)*
+- El documento Markdown que has creado *(`sostenibilidad.md`)*. Para ello, debes descargar el archivo desde el repositorio hasta tu almacenamiento local, para posteriormente subirlo a Moodle.
+- El **PDF** que has exportado utilizando **una de estas dos herramientas online** *(elige la que prefieras)*:
 
 ### 1. [StackEdit](https://stackedit.io)
 
@@ -110,11 +112,14 @@ El documento Markdown que has creado (`sostenibilidad.md`) debe visualizarse y e
 
 ---
 
-### Pasos finales
+## IMPORTANTE - Pasos finales y edición del README.
 
-1. Revisa la vista previa para comprobar que tu documento se ve correctamente (encabezados, listas, tablas, citas, imagen).
-2. Descarga el PDF generado.
-3. Sube el PDF a la tarea correspondiente en **Moodle**.
+1. Revisa la vista previa para comprobar que tu documento `sostenibilidad.md` se ve correctamente *(encabezados, listas, tablas, citas, imagen)*.
+2. Descarga y exporta los documentos que necesites para posteriormente subirlos a **Moodle**, tal y como se solicita en la práctica.
+3. Sube también el PDF exportado con la herramienta onlie al repositorio.
+5. En el README.md, elimina el contenido actual del mismo y pega el contenido del README.md del repositorio con el enunciado de la práctica.
+6. Edita de nuevo tu README e incluye un apartado al inicio que se llame **"Trabajo elaborado por el alumno"** *(renumera el resto de apartados)*.
+7. En este apartado debes incluir un enlace al documento `sostenibilidad.md` y al PDF, que puedes llamar `sostenibilidad.pdf`.
 
 ---
 
